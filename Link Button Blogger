@@ -1,0 +1,21 @@
+// Link Direct Connect Code
+
+                                // Small Button
+                           
+<a class= "button small red"  href=" # "> Button Text  </a >
+<a class= "button small pink" href=" # "> Button Text </a >
+<a class= "button small black" href=" # "> Button Text </a >
+<a class="button small green" href=" # "> Button Text </a >
+<a class= "button small orange"  href=" # "> Button Text </a >
+<a class= "button small yellow" href=" # "> Button Text </a >
+<a class= "button small blue"  href=" # "> Button Text </a >
+
+                                // Normal Button
+                           
+<a class=" button medium red "  href=" # "> Button Text </a >
+<a class=" button pink "  href=" # "> Button Text </a >
+<a class=" button black " href=" # "> Button Text </a >
+<a class=" button green " href=" # "> Button Text </a >
+<a class=" button orange " href=" # "> Button Text </a >
+<a class=" button yellow " href=" # "> Button Text </a >
+<a class=" button blue " href=" # "> Button Text </a >
